@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:atomsbox/atomsbox.dart';
-import 'views/home_screen.dart';
+
+import 'ui/home/views/home_screen.dart';
 
 void main() {
   runApp(const MyApp());
